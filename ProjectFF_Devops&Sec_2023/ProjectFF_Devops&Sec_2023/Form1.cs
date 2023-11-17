@@ -12,12 +12,14 @@ namespace ProjectFF_Devops_Sec_2023
 {
     public partial class Form1 : Form
     {
+        private Dictionary<string, int> fruitPoints = new Dictionary<string, int>();
+        private List<string> availableFruits = new List<string> {"Apple","Banana","Orange","Grape","Strawberry","Kiwi","Watermelon","Mango","Pear"};
+        private Random randomFruitSelector = new Random();
         private Color currentColor;
         private readonly Random random = new Random();
         public Form1()
         {
             InitializeComponent();
-
             currentColor = Color.Black;
             Task.Run(() => ContinuousColorChange());
         }
@@ -54,13 +56,17 @@ namespace ProjectFF_Devops_Sec_2023
         }
         private void ChangeColor(Color color)
         {
-            if (label1.InvokeRequired)
+            if (btnTitle.InvokeRequired || btnChangeUsername.InvokeRequired || LoginBtn.InvokeRequired)
             {
-                label1.Invoke((MethodInvoker)(() => label1.ForeColor = color));
+                btnChangeUsername.Invoke((MethodInvoker)(() => btnChangeUsername.BackColor = color));
+                btnTitle.Invoke((MethodInvoker)(() => btnTitle.BackColor = color));
+                btnTitle.Invoke((MethodInvoker)(() => LoginBtn.BackColor = color));
             }
             else
             {
-                label1.ForeColor = color;
+                btnTitle.BackColor = color;
+                btnChangeUsername.BackColor = color;
+                LoginBtn.BackColor = color;
             }
         }
     }
