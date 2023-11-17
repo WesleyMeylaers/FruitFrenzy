@@ -16,5 +16,10 @@ namespace ProjectFF_Devops_Sec_2023
         {
             InitializeComponent();
         }
+
+        private void LoginBtn_Click(object sender, EventArgs e)
+        {
+            LoginPanel.Visible = false;
+        }
     }
 }
