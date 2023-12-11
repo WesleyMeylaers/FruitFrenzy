@@ -9,3 +9,15 @@ C:\Users\Eigenaar\Desktop\DevOps en Security\FruitFrenzy\FruitFrenzy\ProjectFF_D
 C:\Users\Eigenaar\Desktop\DevOps en Security\FruitFrenzy\FruitFrenzy\ProjectFF_Devops&Sec_2023\ProjectFF_Devops&Sec_2023\obj\Debug\ProjectFF_Devops&Sec_2023.csproj.CoreCompileInputs.cache
 C:\Users\Eigenaar\Desktop\DevOps en Security\FruitFrenzy\FruitFrenzy\ProjectFF_Devops&Sec_2023\ProjectFF_Devops&Sec_2023\obj\Debug\ProjectFF_Devops&Sec_2023.exe
 C:\Users\Eigenaar\Desktop\DevOps en Security\FruitFrenzy\FruitFrenzy\ProjectFF_Devops&Sec_2023\ProjectFF_Devops&Sec_2023\obj\Debug\ProjectFF_Devops&Sec_2023.pdb
+C:\Users\Eigenaar\Desktop\DevOps en Security\FruitFrenzy\FruitFrenzy\ProjectFF_Devops&Sec_2023\ProjectFF_Devops&Sec_2023\bin\Debug\Database_project.db
+C:\Users\Eigenaar\Desktop\DevOps en Security\FruitFrenzy\FruitFrenzy\ProjectFF_Devops&Sec_2023\ProjectFF_Devops&Sec_2023\bin\Debug\Dapper.dll
+C:\Users\Eigenaar\Desktop\DevOps en Security\FruitFrenzy\FruitFrenzy\ProjectFF_Devops&Sec_2023\ProjectFF_Devops&Sec_2023\bin\Debug\EntityFramework.dll
+C:\Users\Eigenaar\Desktop\DevOps en Security\FruitFrenzy\FruitFrenzy\ProjectFF_Devops&Sec_2023\ProjectFF_Devops&Sec_2023\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eigenaar\Desktop\DevOps en Security\FruitFrenzy\FruitFrenzy\ProjectFF_Devops&Sec_2023\ProjectFF_Devops&Sec_2023\bin\Debug\System.Data.SQLite.dll
+C:\Users\Eigenaar\Desktop\DevOps en Security\FruitFrenzy\FruitFrenzy\ProjectFF_Devops&Sec_2023\ProjectFF_Devops&Sec_2023\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Eigenaar\Desktop\DevOps en Security\FruitFrenzy\FruitFrenzy\ProjectFF_Devops&Sec_2023\ProjectFF_Devops&Sec_2023\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Eigenaar\Desktop\DevOps en Security\FruitFrenzy\FruitFrenzy\ProjectFF_Devops&Sec_2023\ProjectFF_Devops&Sec_2023\bin\Debug\Dapper.xml
+C:\Users\Eigenaar\Desktop\DevOps en Security\FruitFrenzy\FruitFrenzy\ProjectFF_Devops&Sec_2023\ProjectFF_Devops&Sec_2023\bin\Debug\EntityFramework.xml
+C:\Users\Eigenaar\Desktop\DevOps en Security\FruitFrenzy\FruitFrenzy\ProjectFF_Devops&Sec_2023\ProjectFF_Devops&Sec_2023\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eigenaar\Desktop\DevOps en Security\FruitFrenzy\FruitFrenzy\ProjectFF_Devops&Sec_2023\ProjectFF_Devops&Sec_2023\bin\Debug\System.Data.SQLite.xml
+C:\Users\Eigenaar\Desktop\DevOps en Security\FruitFrenzy\FruitFrenzy\ProjectFF_Devops&Sec_2023\ProjectFF_Devops&Sec_2023\obj\Debug\ProjectFF_Devops&Sec_2023.csproj.CopyComplete

@@ -1,0 +1,12 @@
+Background: #006442
+backgroundplayground: #26A65B 
+
+Panel location: (25, 96)
+Panel size: (900, 600)
+Icon size: (50, 50)
+
+Minimum x-coordinate: 25
+Maximum x-coordinate: 25 + 900 - 50 = 875
+
+Minimum y-coordinate: 96
+Maximum y-coordinate: 96 + 600 - 50 = 646
