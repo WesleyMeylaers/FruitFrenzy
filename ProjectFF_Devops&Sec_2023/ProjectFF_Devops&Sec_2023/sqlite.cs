@@ -14,7 +14,7 @@ namespace ProjectFF_Devops_Sec_2023
     public class sqlite
     {
         // Create connectionstring for connection to the database
-        private const string ConnectionString = "Data Source=Database_project.db;Version=3;";
+        private const string ConnectionString = "Data Source=C://database/Database_project.db;Version=3;";
         public static void AddUser(string username, string password)
         {
             // Establish a connection to the SQLite database.

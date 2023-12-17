@@ -350,7 +350,7 @@
             // 
             this.label12.AutoSize = true;
             this.label12.Font = new System.Drawing.Font("Showcard Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.Location = new System.Drawing.Point(15, 404);
+            this.label12.Location = new System.Drawing.Point(4, 404);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(46, 33);
             this.label12.TabIndex = 19;
@@ -360,7 +360,7 @@
             // 
             this.label11.AutoSize = true;
             this.label11.Font = new System.Drawing.Font("Showcard Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(15, 463);
+            this.label11.Location = new System.Drawing.Point(4, 463);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(45, 33);
             this.label11.TabIndex = 18;
@@ -369,18 +369,19 @@
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Showcard Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(15, 521);
+            this.label10.Font = new System.Drawing.Font("Showcard Gothic", 18.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.Location = new System.Drawing.Point(4, 521);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(57, 33);
+            this.label10.Size = new System.Drawing.Size(53, 31);
             this.label10.TabIndex = 17;
             this.label10.Text = "#10";
+            this.label10.Click += new System.EventHandler(this.label10_Click);
             // 
             // label9
             // 
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Showcard Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(15, 144);
+            this.label9.Location = new System.Drawing.Point(3, 144);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(43, 33);
             this.label9.TabIndex = 16;
@@ -390,7 +391,7 @@
             // 
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Showcard Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(15, 196);
+            this.label8.Location = new System.Drawing.Point(3, 196);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(45, 33);
             this.label8.TabIndex = 15;
@@ -400,7 +401,7 @@
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Showcard Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(15, 248);
+            this.label7.Location = new System.Drawing.Point(4, 248);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(44, 33);
             this.label7.TabIndex = 14;
@@ -410,7 +411,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Showcard Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(15, 300);
+            this.label6.Location = new System.Drawing.Point(4, 300);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(44, 33);
             this.label6.TabIndex = 13;
@@ -420,7 +421,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Showcard Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(15, 353);
+            this.label5.Location = new System.Drawing.Point(4, 353);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(45, 33);
             this.label5.TabIndex = 12;
@@ -430,7 +431,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Showcard Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(15, 95);
+            this.label4.Location = new System.Drawing.Point(3, 95);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(42, 33);
             this.label4.TabIndex = 11;
@@ -440,7 +441,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Showcard Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(15, 44);
+            this.label3.Location = new System.Drawing.Point(3, 44);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(41, 33);
             this.label3.TabIndex = 10;
@@ -450,7 +451,7 @@
             // 
             this.lblPlace10.AutoSize = true;
             this.lblPlace10.Font = new System.Drawing.Font("Showcard Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPlace10.Location = new System.Drawing.Point(62, 521);
+            this.lblPlace10.Location = new System.Drawing.Point(53, 521);
             this.lblPlace10.Name = "lblPlace10";
             this.lblPlace10.Size = new System.Drawing.Size(187, 33);
             this.lblPlace10.TabIndex = 9;
@@ -460,7 +461,7 @@
             // 
             this.lblPlace9.AutoSize = true;
             this.lblPlace9.Font = new System.Drawing.Font("Showcard Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPlace9.Location = new System.Drawing.Point(62, 463);
+            this.lblPlace9.Location = new System.Drawing.Point(53, 463);
             this.lblPlace9.Name = "lblPlace9";
             this.lblPlace9.Size = new System.Drawing.Size(187, 33);
             this.lblPlace9.TabIndex = 8;
@@ -470,7 +471,7 @@
             // 
             this.lblPlace8.AutoSize = true;
             this.lblPlace8.Font = new System.Drawing.Font("Showcard Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPlace8.Location = new System.Drawing.Point(62, 404);
+            this.lblPlace8.Location = new System.Drawing.Point(53, 404);
             this.lblPlace8.Name = "lblPlace8";
             this.lblPlace8.Size = new System.Drawing.Size(187, 33);
             this.lblPlace8.TabIndex = 7;
@@ -480,7 +481,7 @@
             // 
             this.lblPlace7.AutoSize = true;
             this.lblPlace7.Font = new System.Drawing.Font("Showcard Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPlace7.Location = new System.Drawing.Point(62, 353);
+            this.lblPlace7.Location = new System.Drawing.Point(53, 353);
             this.lblPlace7.Name = "lblPlace7";
             this.lblPlace7.Size = new System.Drawing.Size(187, 33);
             this.lblPlace7.TabIndex = 6;
@@ -490,7 +491,7 @@
             // 
             this.lblPlace6.AutoSize = true;
             this.lblPlace6.Font = new System.Drawing.Font("Showcard Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPlace6.Location = new System.Drawing.Point(62, 300);
+            this.lblPlace6.Location = new System.Drawing.Point(53, 300);
             this.lblPlace6.Name = "lblPlace6";
             this.lblPlace6.Size = new System.Drawing.Size(187, 33);
             this.lblPlace6.TabIndex = 5;
@@ -500,7 +501,7 @@
             // 
             this.lblPlace5.AutoSize = true;
             this.lblPlace5.Font = new System.Drawing.Font("Showcard Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPlace5.Location = new System.Drawing.Point(62, 248);
+            this.lblPlace5.Location = new System.Drawing.Point(53, 248);
             this.lblPlace5.Name = "lblPlace5";
             this.lblPlace5.Size = new System.Drawing.Size(187, 33);
             this.lblPlace5.TabIndex = 4;
@@ -510,7 +511,7 @@
             // 
             this.lblPlace4.AutoSize = true;
             this.lblPlace4.Font = new System.Drawing.Font("Showcard Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPlace4.Location = new System.Drawing.Point(62, 196);
+            this.lblPlace4.Location = new System.Drawing.Point(53, 196);
             this.lblPlace4.Name = "lblPlace4";
             this.lblPlace4.Size = new System.Drawing.Size(187, 33);
             this.lblPlace4.TabIndex = 3;
@@ -520,7 +521,7 @@
             // 
             this.lblPlace3.AutoSize = true;
             this.lblPlace3.Font = new System.Drawing.Font("Showcard Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPlace3.Location = new System.Drawing.Point(62, 144);
+            this.lblPlace3.Location = new System.Drawing.Point(53, 144);
             this.lblPlace3.Name = "lblPlace3";
             this.lblPlace3.Size = new System.Drawing.Size(187, 33);
             this.lblPlace3.TabIndex = 2;
@@ -530,7 +531,7 @@
             // 
             this.lblPlace2.AutoSize = true;
             this.lblPlace2.Font = new System.Drawing.Font("Showcard Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPlace2.Location = new System.Drawing.Point(62, 95);
+            this.lblPlace2.Location = new System.Drawing.Point(53, 95);
             this.lblPlace2.Name = "lblPlace2";
             this.lblPlace2.Size = new System.Drawing.Size(187, 33);
             this.lblPlace2.TabIndex = 1;
@@ -540,7 +541,7 @@
             // 
             this.lblPlace1.AutoSize = true;
             this.lblPlace1.Font = new System.Drawing.Font("Showcard Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPlace1.Location = new System.Drawing.Point(62, 44);
+            this.lblPlace1.Location = new System.Drawing.Point(53, 44);
             this.lblPlace1.Name = "lblPlace1";
             this.lblPlace1.Size = new System.Drawing.Size(187, 33);
             this.lblPlace1.TabIndex = 0;
